@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Program GIT Camp404</h1>
-    <p>lingkatan skill vesioningmu di sini</p>
+    <p>daftar disini</p>
+    <input type="button">daftar</input>
 </body>
 </html>
