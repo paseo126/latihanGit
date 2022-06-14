@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    hallo world
+    <h1>Program GIT Camp404</h1>
+    <p>lingkatan skill vesioningmu di sini</p>
 </body>
 </html>
